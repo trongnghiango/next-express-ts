@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Admin\\projects\\cuserver-typescript-next-app\\logs\\.b5a3f62a9495c3a1df7b7ff83261f57d7cbbd6e7-audit.json",
+    "files": [
+        {
+            "date": 1661776342278,
+            "name": "C:\\Users\\Admin\\projects\\cuserver-typescript-next-app\\logs\\2022-08-29.log",
+            "hash": "a1ee32c4b4597b63e17878e37f44a9babdffb30cf1e9fdf7dfd619801dfad9f7"
+        },
+        {
+            "date": 1661818820313,
+            "name": "C:\\Users\\Admin\\projects\\cuserver-typescript-next-app\\logs\\2022-08-30.log",
+            "hash": "6eeaa98a3536277cd1ce9b62e01f60f72ecf430c362317c073aa6ba8cd5cb257"
+        }
+    ],
+    "hashType": "sha256"
+}
