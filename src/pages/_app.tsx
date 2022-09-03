@@ -1,5 +1,5 @@
-import '../styles/globals.scss';
-import type { AppProps, NextWebVitalsMetric } from 'next/app';
+import "../styles/globals.scss";
+import type { AppProps, NextWebVitalsMetric } from "next/app";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 }
 
 export function reportWebVitals(metric: NextWebVitalsMetric) {
-  console.log(metric)
+  console.log(metric);
 }
 
 export default MyApp;
